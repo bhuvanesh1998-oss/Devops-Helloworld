@@ -8,7 +8,7 @@ public class HelloWorld {
 	
 	@GetMapping("/")
 	public String display() {
-		return "Hello World with Poll SCM";
+		return "Hello World with Poll SCM on 05-10-2024";
 	}
 
 }
