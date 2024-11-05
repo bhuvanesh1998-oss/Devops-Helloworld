@@ -8,7 +8,7 @@ public class HelloWorld {
 	
 	@GetMapping("/")
 	public String display() {
-		return "Hello World";
+		return "Hello World with Poll SCM";
 	}
 
 }
