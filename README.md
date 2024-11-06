@@ -4,10 +4,13 @@ Hello world – Devops CI/CD project
 Tools:
     • VC - Git
     • SCM -  Github
-    • Code base - Java
-    • Build Tool - Maven 
+    • Code base – Java
     • CI – Jenkins
-    • Deployment - Docker
+    • Build Tool - Maven 
+    • SCA – Sonarqube
+    • SAST – OWASP
+    • Jfrog - Artifactory
+    • Deployment – Docker
 
 Upload the code from local to remote (git to github):
 
